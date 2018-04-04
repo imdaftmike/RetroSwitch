@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./combine.py</path>
+		<name>Combine Joy-Cons</name>
+		<desc>Combine the Joy-Cons into one controller for playing single player games.</desc>
+		<image>./combine.png</image>
+		<playcount>49</playcount>
+		<lastplayed>20171019T015416</lastplayed>
+	</game>
+	<game>
+		<path>./separate.py</path>
+		<name>Separate Joy-Cons</name>
+		<desc>Separate the Joy-Cons into two controllers for playing multi player games.</desc>
+		<image>./separate.png</image>
+		<playcount>57</playcount>
+		<lastplayed>20171019T042729</lastplayed>
+	</game>
+</gameList>
